@@ -1,0 +1,14 @@
+{
+  "name": "maayot-mobile",
+  "version": "1.0.0",
+  "description": "Maayot mobile",
+  "author": "211211",
+  "dependencies": {
+    "react": "16.13.1",
+    "react-native": "0.63.3"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-native": "^0.63.37"
+  }
+}
