@@ -1,4 +1,4 @@
-# Sample code of React with Clean architecture
+# Sample code of React with Clean architecture (https://github.com/falsy/react-with-clean-architecture)
 This project is a small idea sample code to introduce a Clean Architecture to a web service or to use a Redux Architecture and a Clean Architecture together.
 
 ## Use Stack
